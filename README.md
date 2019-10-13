@@ -1,7 +1,5 @@
-# Surf's Up - SQL Alchemy Homework
+# Surf's Up! - SQL Alchemy Homework
 
-
-# Surfs Up!
 
 ![surfs-up.jpeg](Images/surfs-up.png)
 
